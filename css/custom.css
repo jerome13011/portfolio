@@ -1,1 +1,40 @@
-/* your styles go here */
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: relative;
+}
+.video-container {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+}
+.video-container .filter {
+    position: absolute;
+    background-size: cover;
+}
+.video-container video {
+    position: absolute;
+    bottom: 0;
+}
+.video-container video.fillWidth {
+    width: 100%;
+}
+.pageone {
+  text-align: center;
+  padding-top: 20%;
+  color: #E6E6FA;
+}
+.pageone p{
+font-size: 40px;
+font-weight: bold;
+}
+.pageone h1{
+color: #E6E6FA;
+}
+.colorp {
+  color:black;
+}

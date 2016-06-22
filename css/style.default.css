@@ -183,7 +183,7 @@ p.social a.email {
 #page1 h1,
 #page1 h2,
 #page1 h3 {
-  color: #fff;
+  color: #E6E6FA;
 }
 #page1 p {
   font-size: 20px;
@@ -531,7 +531,7 @@ body {
   font-family: "Cardo", "Times New Roman", Times, serif;
   font-size: 16px;
   line-height: 1.42857143;
-  color: #333333;
+  color: #E6E6FA;
   background-color: #ffffff;
 }
 a {
@@ -986,5 +986,5 @@ progress::-moz-progress-bar {
   border: 1px solid #555;
   transform: rotate(-90deg);
   margin-top: 40%;
-  
+
 }
